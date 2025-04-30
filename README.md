@@ -4,11 +4,6 @@ This project analyzes personal health and activity data collected via Google Fit
 
 📄 Data Source
 Source: Google Fit
-
-Export Format: CSV (exported via Google Takeout or Google Fit API)
-
-Date Range: [Insert your date range here, e.g., Jan 2023 – Mar 2025]
-
 Key Data Types:
 
 Steps
